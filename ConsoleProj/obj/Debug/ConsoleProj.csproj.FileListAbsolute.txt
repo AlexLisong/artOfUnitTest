@@ -1,1 +1,6 @@
 d:\ArtOfUnitTest\ConsoleProj\bin\Debug\ConsoleProj.exe.config
+d:\ArtOfUnitTest\ConsoleProj\bin\Debug\ConsoleProj.exe
+d:\ArtOfUnitTest\ConsoleProj\bin\Debug\ConsoleProj.pdb
+d:\ArtOfUnitTest\ConsoleProj\obj\Debug\ConsoleProj.csprojResolveAssemblyReference.cache
+d:\ArtOfUnitTest\ConsoleProj\obj\Debug\ConsoleProj.exe
+d:\ArtOfUnitTest\ConsoleProj\obj\Debug\ConsoleProj.pdb

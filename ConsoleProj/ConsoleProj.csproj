@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>7a26b62c-7a92-4ec8-a63a-dbee10290a12</ProjectGuid>
+    <ProjectGuid>{53166BC2-DF72-49CF-B82D-57510002B78E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ConsoleProj</RootNamespace>
@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bargainer.cs" />
+    <Compile Include="HYBargainRequire.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleParser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
