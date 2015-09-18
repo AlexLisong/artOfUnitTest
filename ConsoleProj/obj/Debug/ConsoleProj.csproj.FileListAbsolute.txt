@@ -1,0 +1,1 @@
+d:\ArtOfUnitTest\ConsoleProj\bin\Debug\ConsoleProj.exe.config
